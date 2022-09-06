@@ -1,0 +1,2 @@
+Vktgs,wind_speed,gravi_fts,elev_stick,elron_stick,rudder_stick,elev_surf,ailrn_surf,ruddr_surf,"nwhel,steer",trim,flap,pitch,roll,hding,"   alpha,__deg ","   _beta,__deg ","   hpath,__deg ","   vpath,__deg ","   _slip,__deg ","   __alt,ftmsl ","   ___on,runwy ","   _dist,___ft ","   thro1,_part ","   power,_1,hp "
+1.03227895,11.02161184,32.14647,-8.79E-05,0,0.0054,-0.003910687,0.016199925,0.009839084,0.05397,0.07,0,1.056812743,0.029340392,268.0453676,1.060438,-10.76586751,262.2277318,0.001581657,0.067369921,37.10747931,1,2.626921431,0.25098,18.97106189
